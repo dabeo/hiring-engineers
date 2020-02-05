@@ -5,12 +5,9 @@ Applying to be a TAM at [Apica](https://apicasystems.com)? You are in the right 
 <img src="https://files.apicasystem.com/HiringEngineersUS/Apica+Rooftop+Meetup.jpeg" width="625px" height="415" alt="ApicaRooftopBeers" title="Apica Team on our Santa Monica rooftop">
 
 
-
 ## Getting Started
 
 Please read through the exercises before starting.
-
-
 
 **Setup**
 
@@ -18,26 +15,17 @@ Before starting please contact support@apicasystems.com with the subject line "C
 1) Trial Account creation to ASM 
 2) Credentials to authenticate your private Apica agent.
 
+**Downloads**
+
+* Download Postman here - http://getpostman.com/
+* Get the Selenium IDE Extension - https://www.seleniumhq.org/selenium-ide/
+* Download Zebra IDE - https://www.apicasystems.com/scripting-tools/
+* Apica agent package (found in steps below)
+
 For the agent installation:
 - Create an AWS Account - https://aws.amazon.com/account/
 - Create an EC2 instance using a [CentOS 7 Community AMI](https://aws.amazon.com/marketplace/pp/B00O7WM7QW?ref=cns_srchrow)
 
-**Downloads**
-
-* Get the Selenium IDE Extension - https://www.seleniumhq.org/selenium-ide/
-* Apica agent package (found in steps below)
-* Apica Zebra IDE
-	- [Windows](https://apica-packages.s3.eu-central-1.amazonaws.com/current/ast/0.4.6/windows/2012r2/ast-0.4.6-332-x64.msi)
-	- [Mac](https://apica-packages.s3.eu-central-1.amazonaws.com/current/ast/0.4.6/mac_os_x/10.10/ast-0.4.6-216.dmg)
-	- [Linux](https://apica-packages.s3.eu-central-1.amazonaws.com/current/ast/0.4.6/ubuntu/14.04/ast_0.4.6-56_amd64.deb)
-
-
-To submit your answers:
-
-1. Fork this repo.
-2. Add your notes and answers to **answers.md**
-3. Commit as much as needed to support your answers.
-4. Submit a pull request.
 
 Use screenshots, gifs, videos! Any sort of creativity or interesting formats are totally welcome in presenting your solutions.  However, please keep your content organized and professionally formatted.
 
@@ -88,3 +76,12 @@ Please reach out to ask questions if you have any!
 
 # Questions?
 File an issue in this repository.
+
+
+
+
+
+
+
+
+
