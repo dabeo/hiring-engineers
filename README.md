@@ -50,7 +50,7 @@ Use screenshots, gifs, videos! Any sort of creativity or interesting formats are
 
 
 
-## The Exercise - Part 1 Chaining API Requests
+## The Exercise - Part 2 Chaining API Requests
 
 Please provide screenshots and copy+paste your code snippets for all steps.
 
@@ -64,7 +64,7 @@ Please provide screenshots and copy+paste your code snippets for all steps.
 2. What would happen to the second request if the pre-request script is missing or failed to run successfully?
 
 
-## The Exercise - Part 2 Chaining API Requests with Apica
+## The Exercise - Part 3 Chaining API Requests with Apica
 
 Please provide screenshots and copy+paste your code snippets for all steps.
 
@@ -72,13 +72,13 @@ Please provide screenshots and copy+paste your code snippets for all steps.
 - Upload the script to Apica Synthetic Monitoring [ASM](https://wpm.apicasystem.com/) or Apica LoadTest [ALT](https://loadtest.apicasystem.com/).
 - Create and execute a monitor or a load test.
 - In your **answers.md** comment on the insight and benefit recieved from running this chained transaction as a continuous synthetic monitor or via performance testing.
-- Refer to [Apica Zebra documentation](https://academy.apicasystems.com/astdocs/doku.php) for guidance using the toolset
+- Refer to [Apica Zebra documentation](https://apica-kb.atlassian.net/wiki/spaces/ASTDOCS/overview) for guidance using the toolset
 
 **Questions:**
 1. Describe how can users more easily manage multiple variables accross multiple API scripts comparitively with Zebra IDE?
 
 
-## The Exercise - Part 3 API Investigation
+## The Exercise - Part 4 API Investigation
 
 - Using your Browser's Development Tools, bring up the Network tab.  Ensure the record light is on and load any web page. Find a web service call.
 - Copy the request and response into your **answers.md** 
@@ -87,7 +87,7 @@ Please provide screenshots and copy+paste your code snippets for all steps.
 1. Describe the call's function. Is it a 1st or 3rd party call?
 2. Are you using an ad blocker?  Were there any calls blocked from posting information about your session?
 
-## The Exercise - Part 4 Private Agent Installation ( extra credit )
+## The Exercise - Part 5 Private Agent Installation ( extra credit )
 
 Please provide screenshots and copy+paste your code snippets for all steps.
 
