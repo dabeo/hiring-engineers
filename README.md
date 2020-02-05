@@ -19,7 +19,7 @@ Before starting please contact support@apicasystems.com with the subject line "C
 
 * Download Postman here - http://getpostman.com/
 * Get the Selenium IDE Extension - https://www.seleniumhq.org/selenium-ide/
-* Download Zebra IDE - https://www.apicasystems.com/scripting-tools/
+* Download Zebra IDE - https://apica-kb.atlassian.net/wiki/spaces/ASTDOCS/overview
 * Apica agent package (found in steps below)
 
 For the agent installation:
